@@ -171,7 +171,7 @@ body{
     height: 775px;
     margin: 0 auto;
     margin-top: 88px;
-    margin-bottom: 150px;
+    margin-bottom: 200px;
 }
 .Inspiration-content{
     padding: 0 140px 0 140px;
@@ -207,6 +207,7 @@ body{
     border-radius: 16px;
     margin-top: 48px;
     padding: 32px;
+    
     
 }
 .Inspiration-video iframe{
