@@ -53,7 +53,6 @@ body{
     font-size: 20px;
     font-weight: 600;
     margin-top: 32px;
-    cursor: pointer;
 }
 /* WebDev-section-container style */
 
@@ -354,6 +353,7 @@ input{
     font-size: 20px;
     font-weight: 600;
     border: none;   
+    cursor: pointer;
 }
 .footer-section-container{
     width: 1440px;
